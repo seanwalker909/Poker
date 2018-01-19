@@ -1,5 +1,4 @@
-//Sean Walker	
-//CS 342 Project 1 - Poker
+//Sean Walker
 
 import java.util.ArrayList;
 

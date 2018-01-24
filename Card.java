@@ -1,5 +1,5 @@
 //Sean Walker	
-//CS 342 Project 1 - Poker
+//Poker - Card Class
 
 //this is a card class that contains attributes of cards in enums
 
